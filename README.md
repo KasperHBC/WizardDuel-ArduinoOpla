@@ -2,7 +2,6 @@
 
 Et multiplayer troldmandskamp-spil hvor 2-4 spillere kæmper mod hinanden med magi! Spillerne styrer deres wizard med en Arduino Opla IoT Kit, mens kampen vises live på en webbaseret arena.
 
-![Wizard Duel Arena](wizard-duel/public/vite.svg)
 
 ## 🎮 Sådan fungerer spillet
 
