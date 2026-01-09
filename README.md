@@ -2,6 +2,8 @@
 
 Et multiplayer troldmandskamp-spil hvor 2-4 spillere kæmper mod hinanden med magi! Spillerne styrer deres wizard med en Arduino Opla IoT Kit, mens kampen vises live på en webbaseret arena.
 
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/c3c089b9-c248-494e-9f81-e47cac893035" />
+
 
 ## 🎮 Sådan fungerer spillet
 
